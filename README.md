@@ -32,18 +32,19 @@ Jupyter Notebook
         "tol": ,
         "max_iter": ,
         "x0": 
-    },
-
+    }
 ]
 ```
 
 2. Ejecutar el Experimento
 
-- Nombre del archivo JSON que creaste:
+```python
+# Nombre del archivo JSON que creaste
 experiment_name = "mi_experimento.json"
 
-- Ejecutar el experimento:
+# Ejecutar el experimento
 Experiment(experiment_name)
+```
 
 3. Resultados Obtenidos
 
