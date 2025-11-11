@@ -2,7 +2,7 @@
 
 Este proyecto implementa y compara dos métodos de optimización (Máximo Descenso y Quasi-Newton BFGS) para minimizar la función:
 
-\[ f(x,y) = \frac{\arctan(x^2 + y^2)}{e^x} \]
+$f(x,y) = \frac{\arctan(x^2 + y^2)}{e^x}$
 
 ### Requisitos de Instalación
 
@@ -39,10 +39,10 @@ Jupyter Notebook
 
 2. Ejecutar el Experimento
 
-# Nombre del archivo JSON que creaste
+- Nombre del archivo JSON que creaste:
 experiment_name = "mi_experimento.json"
 
-# Ejecutar el experimento
+- Ejecutar el experimento:
 Experiment(experiment_name)
 
 3. Resultados Obtenidos
