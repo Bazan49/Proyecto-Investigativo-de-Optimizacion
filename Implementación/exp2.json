@@ -1,0 +1,32 @@
+[
+    {
+        "learning_rate": 0.1,
+        "tol": 1e-6,
+        "max_iter": 500,
+        "x0": [-73.5, 42.1]
+    },
+    {
+        "learning_rate": 0.2,
+        "tol": 1e-5,
+        "max_iter": 600,
+        "x0": [15.8, -88.3]
+    },
+    {
+        "learning_rate": 0.05,
+        "tol": 1e-7,
+        "max_iter": 800,
+        "x0": [-24.9, 67.2]
+    },
+    {
+        "learning_rate": 0.3,
+        "tol": 1e-6,
+        "max_iter": 700,
+        "x0": [90.0, -10.5]
+    },
+    {
+        "learning_rate": 0.15,
+        "tol": 1e-8,
+        "max_iter": 1000,
+        "x0": [-55.6, -75.3]
+    }
+]

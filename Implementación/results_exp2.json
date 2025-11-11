@@ -1,0 +1,157 @@
+[
+    {
+        "params": {
+            "learning_rate": 0.1,
+            "tol": 1e-06,
+            "max_iter": 500,
+            "x0": [
+                -73.5,
+                42.1
+            ]
+        },
+        "gradient_descent": {
+            "x_min": [
+                1.3083578640830282e+31,
+                -1.362554406978791e+25
+            ],
+            "f_min": 0.0,
+            "num_iter": 2,
+            "converged": true,
+            "time_seconds": 0.0009016990661621094
+        },
+        "quasi_newton": {
+            "x_min": [
+                -72.49001234843249,
+                29.94750289938562
+            ],
+            "f_min": 4.7652675188119805e+31,
+            "num_iter": 2,
+            "converged": false,
+            "time_seconds": 0.0020041465759277344
+        }
+    },
+    {
+        "params": {
+            "learning_rate": 0.2,
+            "tol": 1e-05,
+            "max_iter": 600,
+            "x0": [
+                15.8,
+                -88.3
+            ]
+        },
+        "gradient_descent": {
+            "x_min": [
+                15.800000043178004,
+                -88.29999999999993
+            ],
+            "f_min": 2.1589007770194634e-07,
+            "num_iter": 1,
+            "converged": true,
+            "time_seconds": 1.9788742065429688e-05
+        },
+        "quasi_newton": {
+            "x_min": [
+                15.8,
+                -88.3
+            ],
+            "f_min": 2.1589008702364615e-07,
+            "num_iter": 0,
+            "converged": true,
+            "time_seconds": 0.00019669532775878906
+        }
+    },
+    {
+        "params": {
+            "learning_rate": 0.05,
+            "tol": 1e-07,
+            "max_iter": 800,
+            "x0": [
+                -24.9,
+                67.2
+            ]
+        },
+        "gradient_descent": {
+            "x_min": [
+                5116455060.5545435,
+                -16531.61917787449
+            ],
+            "f_min": 0.0,
+            "num_iter": 2,
+            "converged": true,
+            "time_seconds": 7.271766662597656e-05
+        },
+        "quasi_newton": {
+            "x_min": [
+                16.84102926250035,
+                3169612.421781429
+            ],
+            "f_min": 7.623489364550871e-08,
+            "num_iter": 59,
+            "converged": true,
+            "time_seconds": 0.008900880813598633
+        }
+    },
+    {
+        "params": {
+            "learning_rate": 0.3,
+            "tol": 1e-06,
+            "max_iter": 700,
+            "x0": [
+                90.0,
+                -10.5
+            ]
+        },
+        "gradient_descent": {
+            "x_min": [
+                90.0,
+                -10.5
+            ],
+            "f_min": 1.2870126909175937e-39,
+            "num_iter": 1,
+            "converged": true,
+            "time_seconds": 0.00015497207641601562
+        },
+        "quasi_newton": {
+            "x_min": [
+                90.0,
+                -10.5
+            ],
+            "f_min": 1.2870126909175937e-39,
+            "num_iter": 0,
+            "converged": true,
+            "time_seconds": 0.0012555122375488281
+        }
+    },
+    {
+        "params": {
+            "learning_rate": 0.15,
+            "tol": 1e-08,
+            "max_iter": 1000,
+            "x0": [
+                -55.6,
+                -75.3
+            ]
+        },
+        "gradient_descent": {
+            "x_min": [
+                3.3033392134290104e+23,
+                4.126078110917287e+17
+            ],
+            "f_min": 0.0,
+            "num_iter": 2,
+            "converged": true,
+            "time_seconds": 8.440017700195312e-05
+        },
+        "quasi_newton": {
+            "x_min": [
+                19.391559459476493,
+                -706534.9385746572
+            ],
+            "f_min": 5.949392317077248e-09,
+            "num_iter": 110,
+            "converged": true,
+            "time_seconds": 0.017330408096313477
+        }
+    }
+]

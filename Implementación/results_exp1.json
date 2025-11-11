@@ -1,0 +1,157 @@
+[
+    {
+        "params": {
+            "learning_rate": 0.05,
+            "tol": 1e-08,
+            "max_iter": 500,
+            "x0": [
+                0.1,
+                -0.1
+            ]
+        },
+        "gradient_descent": {
+            "x_min": [
+                6.103547453161912e-08,
+                -5.4656198359008575e-08
+            ],
+            "f_min": 6.712628760650723e-15,
+            "num_iter": 138,
+            "converged": true,
+            "time_seconds": 0.002438068389892578
+        },
+        "quasi_newton": {
+            "x_min": [
+                -8.561559310467736e-11,
+                1.2375289944541242e-10
+            ],
+            "f_min": 2.2644809905750787e-20,
+            "num_iter": 8,
+            "converged": true,
+            "time_seconds": 0.0011975765228271484
+        }
+    },
+    {
+        "params": {
+            "learning_rate": 0.1,
+            "tol": 1e-08,
+            "max_iter": 500,
+            "x0": [
+                -0.05,
+                0.05
+            ]
+        },
+        "gradient_descent": {
+            "x_min": [
+                -2.219438253633183e-08,
+                2.364259327446179e-08
+            ],
+            "f_min": 1.0515628562494454e-15,
+            "num_iter": 65,
+            "converged": true,
+            "time_seconds": 0.0021872520446777344
+        },
+        "quasi_newton": {
+            "x_min": [
+                4.770192458741838e-11,
+                3.6887496275034117e-10
+            ],
+            "f_min": 1.3834421174681006e-19,
+            "num_iter": 4,
+            "converged": true,
+            "time_seconds": 0.0013248920440673828
+        }
+    },
+    {
+        "params": {
+            "learning_rate": 0.2,
+            "tol": 1e-08,
+            "max_iter": 500,
+            "x0": [
+                0.2,
+                -0.2
+            ]
+        },
+        "gradient_descent": {
+            "x_min": [
+                1.1486997463208399e-08,
+                -8.474728909569905e-09
+            ],
+            "f_min": 2.037721384697261e-16,
+            "num_iter": 34,
+            "converged": true,
+            "time_seconds": 0.0009238719940185547
+        },
+        "quasi_newton": {
+            "x_min": [
+                -6.000493270847681e-11,
+                -6.115445206926687e-11
+            ],
+            "f_min": 7.340458957681552e-21,
+            "num_iter": 9,
+            "converged": true,
+            "time_seconds": 0.0011758804321289062
+        }
+    },
+    {
+        "params": {
+            "learning_rate": 0.1,
+            "tol": 1e-06,
+            "max_iter": 500,
+            "x0": [
+                -0.15,
+                0.1
+            ]
+        },
+        "gradient_descent": {
+            "x_min": [
+                -3.0736846785811087e-06,
+                2.3495914193080462e-06
+            ],
+            "f_min": 1.4968163348373894e-11,
+            "num_iter": 47,
+            "converged": true,
+            "time_seconds": 0.0021071434020996094
+        },
+        "quasi_newton": {
+            "x_min": [
+                -2.1804161571327982e-07,
+                1.8566508782221728e-07
+            ],
+            "f_min": 8.201368890128453e-14,
+            "num_iter": 4,
+            "converged": true,
+            "time_seconds": 0.0019288063049316406
+        }
+    },
+    {
+        "params": {
+            "learning_rate": 0.05,
+            "tol": 1e-07,
+            "max_iter": 500,
+            "x0": [
+                0.05,
+                -0.05
+            ]
+        },
+        "gradient_descent": {
+            "x_min": [
+                6.401280780959722e-07,
+                -6.056639236548965e-07
+            ],
+            "f_min": 7.765922476652254e-13,
+            "num_iter": 108,
+            "converged": true,
+            "time_seconds": 0.0016705989837646484
+        },
+        "quasi_newton": {
+            "x_min": [
+                -1.7301009300847346e-10,
+                -6.011611712365409e-09
+            ],
+            "f_min": 3.616940787878943e-17,
+            "num_iter": 7,
+            "converged": true,
+            "time_seconds": 0.0017311573028564453
+        }
+    }
+]
