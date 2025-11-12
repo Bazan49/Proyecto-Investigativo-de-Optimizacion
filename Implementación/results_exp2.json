@@ -17,7 +17,7 @@
             "f_min": 0.0,
             "num_iter": 2,
             "converged": true,
-            "time_seconds": 0.0009016990661621094
+            "time_seconds": 0.00603485107421875
         },
         "quasi_newton": {
             "x_min": [
@@ -27,7 +27,7 @@
             "f_min": 4.7652675188119805e+31,
             "num_iter": 2,
             "converged": false,
-            "time_seconds": 0.0020041465759277344
+            "time_seconds": 0.01449894905090332
         }
     },
     {
@@ -48,7 +48,7 @@
             "f_min": 2.1589007770194634e-07,
             "num_iter": 1,
             "converged": true,
-            "time_seconds": 1.9788742065429688e-05
+            "time_seconds": 3.314018249511719e-05
         },
         "quasi_newton": {
             "x_min": [
@@ -58,7 +58,7 @@
             "f_min": 2.1589008702364615e-07,
             "num_iter": 0,
             "converged": true,
-            "time_seconds": 0.00019669532775878906
+            "time_seconds": 0.00022912025451660156
         }
     },
     {
@@ -79,7 +79,7 @@
             "f_min": 0.0,
             "num_iter": 2,
             "converged": true,
-            "time_seconds": 7.271766662597656e-05
+            "time_seconds": 0.00012159347534179688
         },
         "quasi_newton": {
             "x_min": [
@@ -89,7 +89,7 @@
             "f_min": 7.623489364550871e-08,
             "num_iter": 59,
             "converged": true,
-            "time_seconds": 0.008900880813598633
+            "time_seconds": 0.005094766616821289
         }
     },
     {
@@ -110,7 +110,7 @@
             "f_min": 1.2870126909175937e-39,
             "num_iter": 1,
             "converged": true,
-            "time_seconds": 0.00015497207641601562
+            "time_seconds": 0.0003452301025390625
         },
         "quasi_newton": {
             "x_min": [
@@ -120,7 +120,7 @@
             "f_min": 1.2870126909175937e-39,
             "num_iter": 0,
             "converged": true,
-            "time_seconds": 0.0012555122375488281
+            "time_seconds": 0.0004024505615234375
         }
     },
     {
@@ -141,7 +141,7 @@
             "f_min": 0.0,
             "num_iter": 2,
             "converged": true,
-            "time_seconds": 8.440017700195312e-05
+            "time_seconds": 5.650520324707031e-05
         },
         "quasi_newton": {
             "x_min": [
@@ -151,7 +151,7 @@
             "f_min": 5.949392317077248e-09,
             "num_iter": 110,
             "converged": true,
-            "time_seconds": 0.017330408096313477
+            "time_seconds": 0.0066814422607421875
         }
     }
 ]
